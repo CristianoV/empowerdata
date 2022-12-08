@@ -26,7 +26,7 @@ Atenciosamente,
 Seu nome.
 """
 
-pyautogui.PAUSE = 1
+pyautogui.PAUSE = 2
 pyautogui.click(x=2234, y=897)
 pyautogui.hotkey("ctrl", "t")
 pyperclip.copy("www.gmail.com")
